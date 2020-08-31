@@ -1,3 +1,5 @@
+## Tablas de multiplicar
+
 -- Jesús Soto
 
-Aplicación para el cálculo de la tablas de multiplicar desde node.
+Aplicación para el cálculo de las tablas de multiplicar, esto utilizando NodJS
